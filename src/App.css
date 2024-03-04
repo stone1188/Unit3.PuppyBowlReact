@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+img {
+  height: 180px;
+}
+#pups {
+  display: flex;
+  flex-direction: column;
+}
+
+#puppers {
+  display: flex;
+  flex-wrap: wrap;
+}
